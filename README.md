@@ -40,7 +40,7 @@ The healthcare prediction dataset contains various columns related to patient ca
 - **Room Assigned**: The room number assigned to the patient (considered for removal in analysis).
 - **Attending Doctor**: The name of the doctor attending to the patient (considered for removal in analysis).
 - **Hospital Stay Duration**: Calculated duration of the hospital stay in days.
-## Installation
+
 ## Installation
 To set up the project locally, follow these steps:
 
